@@ -1,0 +1,7 @@
+name = Celery Payment
+description = Celery Payment for Drupal Commerce. Created by <a href="http://www.hark.bz">Hark</a>.
+package = Commerce
+dependencies[] = commerce
+dependencies[] = commerce_payment
+core = 7.x
+
